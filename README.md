@@ -17,13 +17,13 @@ git clone https://github.com/CodeThat/yolov5-object-tracking.git
 
 2. Install the required Python packages:
 
-  {pip install -r requirements.txt}
+```pip install -r requirements.txt```
 
 ## Usage
 
 1. Run the program:
 
-  python main.py
+ ```python main.py```
 
 2. Select a YOLOv5 model from the dropdown menu.
 
